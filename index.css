@@ -57,7 +57,7 @@
     #connect{
        background-color: #4CAF50;
        color: white;
-       padding: 14px 14px;
+       padding: 14px 5px;
        border: none;
        border-radius: 4px;
        cursor: pointer;
@@ -88,7 +88,16 @@
        background-color: #CACFD2;
        color: #fff;
     }
-    
+    #start{
+    position: absolute;
+    top: 490px; left: 0;
+    width: 18%; margin-left: 41%; margin-right: 25%;
+    padding: 10px; text-align: center;
+    font-size: 22px; opacity:0.6;
+    font-family: calibri; color: white;
+    border:none; border-radius:10px;
+    background-color: green;
+    }
     #start:hover{
     opacity: 0.8;
     cursor: pointer;
