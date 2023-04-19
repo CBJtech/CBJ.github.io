@@ -88,16 +88,7 @@
        background-color: #CACFD2;
        color: #fff;
     }
-    #start{
-    position: absolute;
-    top: 460px; left: 0;
-    width: 18%; margin-left: 41%; margin-right: 25%;
-    padding: 10px; text-align: center;
-    font-size: 22px; opacity:0.6;
-    font-family: calibri; color: white;
-    border:none; border-radius:10px;
-    background-color: green;
-    }
+    
     #start:hover{
     opacity: 0.8;
     cursor: pointer;
